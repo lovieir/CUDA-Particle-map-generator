@@ -1,0 +1,11 @@
+# Build outputs and runtime libraries
+*.exe
+*.dll
+*.obj
+*.exp
+*.lib
+*.pdb
+*.ilk
+
+# Visual Studio temporary files
+.vs/
